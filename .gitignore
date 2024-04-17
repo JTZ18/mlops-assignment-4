@@ -4,3 +4,8 @@ archive
 run-mistral-large
 sonnet
 venv
+llama-7b-qlora-sutd-qa
+llama-7b-qlora-sutd-qa-dpo
+llama-7b-qlora-sutd-qa-sonnet
+llama-7b-qlora-sutd-qa-sonnet-mistral
+results
